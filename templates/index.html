@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Food Locator | Smart Recommendations</title>
+
+    <!-- Google Fonts: Outfit -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Leaflet CSS for Map -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <!-- Leaflet Routing Machine CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <!-- Background Decoration Context -->
+    <div class="bg-shape shape-1"></div>
+    <div class="bg-shape shape-2"></div>
+
+    <main class="glass-container">
+        <!-- Header Section -->
+        <header>
+            <div style="display: flex; justify-content: flex-end; gap: 10px; margin-bottom: 10px;">
+                <button id="themeToggleBtn" class="btn-icon">🌞 Light Mode</button>
+                <button id="locationToggleBtn" class="btn-icon active">📍 Location: ON</button>
+            </div>
+            <h1>Campus<span class="highlight">Bites</span></h1>
+            <p>Smart Campus Food Navigator & Recommender</p>
+        </header>
+
+        <!-- Main Content Matrix -->
+        <div class="content-grid">
+
+            <!-- Controls Sidebar -->
+            <aside class="sidebar">
+
+                <!-- Section 1: Search (KNN) -->
+                <section class="control-card">
+                    <h3>🔍 Find Nearest Food Stall</h3>
+                    <p class="subtitle">Search for an item (e.g., Paneer Pizza) to find the nearest stall.</p>
+                    <div class="input-group">
+                        <input type="text" id="searchInput" placeholder="e.g. Masala Dosa, Paneer Pizza">
+                        <button id="searchBtn" class="btn-primary">Find Nearest</button>
+                    </div>
+                </section>
+
+                <!-- Section 2: Recommend Category (Decision Tree) -->
+                <section class="control-card">
+                    <h3>Food Item and Stall Recommendations</h3>
+                    <p class="subtitle">Get recommendations based on food category.</p>
+                    <div class="input-group">
+                        <select id="categorySelect">
+                            <option value="">Select Category...</option>
+                            <option value="Snack">Snacks</option>
+                            <option value="South Indian">South Indian</option>
+                            <option value="Beverage">Beverages</option>
+                            <option value="Dessert">Desserts</option>
+                            <option value="Chinese">Chinese</option>
+                        </select>
+                        <button id="recommendCategoryBtn" class="btn-secondary">Recommend</button>
+                    </div>
+                </section>
+
+                <!-- Section 3: Weather Based (API) -->
+                <section class="control-card">
+                    <h3>🌤️ Weather Specials</h3>
+                    <p class="subtitle">Discover weather-perfect treats based on your current location's temperature.
+                    </p>
+                    <div class="input-group">
+                        <button id="weatherBtn" class="btn-primary temp-btn">View Weather Specials</button>
+                    </div>
+                </section>
+
+            </aside>
+
+            <!-- Map View Area -->
+            <section class="map-view">
+                <div id="statusMessage" class="status-msg">Welcome! Please search for an item.</div>
+                <!-- Leaflet map container -->
+                <div id="map" class="map-container"></div>
+
+                <!-- External container for the turn-by-turn navigation so it doesn't overlap the map -->
+                <div id="routeDetailsContainer" class="route-details-container"></div>
+
+                <!-- Results container for non-map items -->
+                <div id="resultsContainer" class="results-container hidden">
+                    <h3>Suggested Items</h3>
+                    <ul id="resultsList"></ul>
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.js"></script>
+
+    <!-- Custom JS -->
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+
+</html>

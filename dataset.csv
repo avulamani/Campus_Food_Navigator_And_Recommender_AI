@@ -1,0 +1,1018 @@
+stall_name,food_item,price,latitude,longitude,category,rating,temperature_type
+Govinda (26th Block Canteen),Chana Bathura,75,31.2526267,75.7030746,Breakfast,4.0,Hot
+Govinda (26th Block Canteen),Chana Puri,75,31.2526267,75.7030746,Breakfast,4.0,Hot
+Govinda (26th Block Canteen),Chana Kulcha,75,31.2526267,75.7030746,Breakfast,4.0,Hot
+Govinda (26th Block Canteen),Nutri Kulcha,60,31.2526267,75.7030746,Breakfast,4.0,Hot
+Govinda (26th Block Canteen),Aloo Prantha,35,31.2526267,75.7030746,Breakfast,4.0,Hot
+Govinda (26th Block Canteen),Gobi Prantha,35,31.2526267,75.7030746,Breakfast,4.0,Hot
+Govinda (26th Block Canteen),Onion Prantha,35,31.2526267,75.7030746,Breakfast,4.0,Hot
+Govinda (26th Block Canteen),Mix Prantha,35,31.2526267,75.7030746,Breakfast,4.0,Hot
+Govinda (26th Block Canteen),Paneer Prantha,50,31.2526267,75.7030746,Breakfast,4.0,Hot
+Govinda (26th Block Canteen),Poha,40,31.2526267,75.7030746,Breakfast,4.0,Hot
+Govinda (26th Block Canteen),Samosa,20,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Chana Samosa,50,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Patty,25,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Bread Pakora,20,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Maggi,50,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Veg Maggi,50,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Aloo Sandwich,30,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Paneer Sandwich,50,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Masala Oats,40,31.2526267,75.7030746,Healthy,4.0,Hot
+Govinda (26th Block Canteen),Milk Oats,50,31.2526267,75.7030746,Healthy,4.0,Hot
+Govinda (26th Block Canteen),Milk Dalia,50,31.2526267,75.7030746,Healthy,4.0,Hot
+Govinda (26th Block Canteen),Peanut Butter Banana,50,31.2526267,75.7030746,Healthy,4.0,Cold
+Govinda (26th Block Canteen),Tea,15,31.2526267,75.7030746,Beverage,4.0,Hot
+Govinda (26th Block Canteen),Coffee,30,31.2526267,75.7030746,Beverage,4.0,Hot
+Govinda (26th Block Canteen),Lassi,40,31.2526267,75.7030746,Beverage,4.0,Cold
+Govinda (26th Block Canteen),Shakes,60,31.2526267,75.7030746,Beverage,4.0,Cold
+Govinda (26th Block Canteen),Normal Thali,90,31.2526267,75.7030746,Lunch,4.0,Hot
+Govinda (26th Block Canteen),Special Thali,90,31.2526267,75.7030746,Lunch,4.0,Hot
+Govinda (26th Block Canteen),Dal Rice,75,31.2526267,75.7030746,Lunch,4.0,Hot
+Govinda (26th Block Canteen),Chana Rice,75,31.2526267,75.7030746,Lunch,4.0,Hot
+Govinda (26th Block Canteen),Kari Rice,75,31.2526267,75.7030746,Lunch,4.0,Hot
+Govinda (26th Block Canteen),Rajma Rice,75,31.2526267,75.7030746,Lunch,4.0,Hot
+Govinda (26th Block Canteen),Paneer Rice,75,31.2526267,75.7030746,Lunch,4.0,Hot
+Govinda (26th Block Canteen),Paneer Bowl,90,31.2526267,75.7030746,Lunch,4.0,Hot
+Govinda (26th Block Canteen),Dal Rajma Bowl,90,31.2526267,75.7030746,Lunch,4.0,Hot
+Govinda (26th Block Canteen),Dry Sabji Bowl,50,31.2526267,75.7030746,Lunch,4.0,Hot
+Govinda (26th Block Canteen),Sabji Roti,60,31.2526267,75.7030746,Lunch,4.0,Hot
+Govinda (26th Block Canteen),Paneer 4 Roti,70,31.2526267,75.7030746,Lunch,4.0,Hot
+Govinda (26th Block Canteen),Paneer Burji Prantha,80,31.2526267,75.7030746,Lunch,4.0,Hot
+Govinda (26th Block Canteen),Paneer Burji Bread,80,31.2526267,75.7030746,Lunch,4.0,Hot
+Govinda (26th Block Canteen),Noodles,70,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Manchurian,80,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Fried Rice,80,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Lemon Rice,80,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Noodles Manchurian,100,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Fried Rice Manchurian,80,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Grilled Sandwich,80,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Nutri Kulcha Snack,60,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Pav Bhaji,70,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),White Sauce Pasta,90,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Red Sauce Pasta,90,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Dahi Bhalla,60,31.2526267,75.7030746,Snack,4.0,Cold
+Govinda (26th Block Canteen),French Fries,50,31.2526267,75.7030746,Snack,4.0,Hot
+Govinda (26th Block Canteen),Sweet Corn,50,31.2526267,75.7030746,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Thali,90,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Special Thali,110,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Dal Rice,75,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Chana Rice,75,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Kadhi Rice,75,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Rajma Rice,75,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Poori Channa,75,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Kulcha Channa,75,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Channa Bhatura,75,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Paneer Gravy,90,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Paneer Bhurji,120,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Seasonal Veg,50,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Plain Parantha,20,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Stuffed Parantha,35,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Paneer Parantha,50,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Rice Bowl,70,31.2525516,75.7035534,North Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Plain Dosa,80,31.2525516,75.7035534,South Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Masala Dosa,100,31.2525516,75.7035534,South Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Paneer Dosa,120,31.2525516,75.7035534,South Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Flavoured Rice,70,31.2525516,75.7035534,South Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Sambar Rice,80,31.2525516,75.7035534,South Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Sambar Vada,80,31.2525516,75.7035534,South Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Punugullu,80,31.2525516,75.7035534,South Indian,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Samosa,20,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Bread Pakora,20,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Bread Roll,20,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Chana Samosa,50,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Jumbo Grilled Sandwich,80,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Aloo Patty,25,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Paneer Patty,35,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Kachori,30,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Dahi Bhalla,60,31.2525516,75.7035534,Snack,4.0,Cold
+Vishal Gupta Dhaba (27th Block Canteen),French Fries,50,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Maggi,30,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Veg Maggi,50,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Momos,70,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Sweet Corn,50,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Noodles,70,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Manchurian Combo,80,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Manchurian,80,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Fried Rice,80,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Veg Burger,50,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Spring Roll,60,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Tikki Matar,60,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Chinese Combo,100,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Nutri Kulcha,60,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Pav Bhaji,70,31.2525516,75.7035534,Snack,4.0,Hot
+Vishal Gupta Dhaba (27th Block Canteen),Poha,30,31.2525516,75.7035534,Breakfast,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Thali,90,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Special Thali,110,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Dal Rice,75,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Chana Rice,75,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Kadhi Rice,75,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Rajma Rice,75,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Poori Chana,75,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Kulcha Chana,75,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Bhatura Chana,75,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Paneer Gravy,90,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Paneer Bhurji,120,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Seasonal Veg,50,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Plain Parantha,20,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Stuffed Parantha,35,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Paneer Parantha,50,31.2526193,75.7038974,North Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Sambar Rice,60,31.2526193,75.7038974,South Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Sambar Vada,80,31.2526193,75.7038974,South Indian,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Samosa,20,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Bread Pakora,20,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Bread Roll,20,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Chana Samosa,50,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Jumbo Grilled Sandwich,80,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),French Fries,50,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Maggi,30,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Veg Maggi,50,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Momos,70,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Sweet Corn,50,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Noodles,70,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Manchurian Combo,80,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Manchurian,80,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Fried Rice,80,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Veg Burger,50,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Spring Roll,60,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Chinese Combo,100,31.2526193,75.7038974,Snack,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Poha,30,31.2526193,75.7038974,Breakfast,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Coffee,30,31.2526193,75.7038974,Beverage,4.0,Hot
+PR Terrace Cafe (28th Block Canteen),Cold Coffee,60,31.2526193,75.7038974,Beverage,4.0,Cold
+PR Terrace Cafe (28th Block Canteen),Shakes,100,31.2526193,75.7038974,Beverage,4.0,Cold
+PR Terrace Cafe (28th Block Canteen),Lassi,60,31.2526193,75.7038974,Beverage,4.0,Cold
+"Talk of the Town (34th Block Canteen, Floor 6)",Normal Roti Meal,75,31.2515396,75.7047034,Meal,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Normal Rice Meal,75,31.2515396,75.7047034,Meal,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Normal Paratha Meal,85,31.2515396,75.7047034,Meal,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Special Roti Meal,85,31.2515396,75.7047034,Meal,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Special Rice Meal,85,31.2515396,75.7047034,Meal,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Special Paratha Meal,95,31.2515396,75.7047034,Meal,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Lallantop Thali,120,31.2515396,75.7047034,Meal,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Biryani,70,31.2515396,75.7047034,Rice,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Fried Rice,70,31.2515396,75.7047034,Rice,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Gravy Fried Rice,90,31.2515396,75.7047034,Rice,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Pulao Rice,70,31.2515396,75.7047034,Rice,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Gravy Pulao Rice,90,31.2515396,75.7047034,Rice,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Lemon Rice,60,31.2515396,75.7047034,Rice,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Aloo Pyaz Paratha,35,31.2515396,75.7047034,Breakfast,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Idli Sambar,60,31.2515396,75.7047034,South Indian,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Vada Sambar,60,31.2515396,75.7047034,South Indian,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Pav Bhaji,70,31.2515396,75.7047034,Snack,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Dahi Bhalla,60,31.2515396,75.7047034,Snack,4.0,Cold
+"Talk of the Town (34th Block Canteen, Floor 6)",Samosa,20,31.2515396,75.7047034,Snack,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",1 Samosa Chana,30,31.2515396,75.7047034,Snack,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",2 Samosa Chana,50,31.2515396,75.7047034,Snack,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Bread Pakoda,20,31.2515396,75.7047034,Snack,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Chai,20,31.2515396,75.7047034,Beverage,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Coffee,30,31.2515396,75.7047034,Beverage,4.0,Hot
+"Talk of the Town (34th Block Canteen, Floor 6)",Lassi,40,31.2515396,75.7047034,Beverage,4.0,Cold
+38th Block Canteen,Thali,90,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Special Thali,110,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Dal Rice,75,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Chana Rice,75,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Kadhi Rice,75,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Rajma Rice,75,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Poori Chana,75,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Kulcha Chana,75,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Chana Bhatura,75,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Paneer Sabzi,80,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Seasonal Veg,45,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Plain Parantha,20,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Stuffed Parantha,35,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Paneer Parantha,50,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Veg Biryani,80,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Fried Rice,80,31.2521423,75.7036057,North Indian,4.0,Hot
+38th Block Canteen,Plain Dosa,60,31.2521423,75.7036057,South Indian,4.0,Hot
+38th Block Canteen,Masala Dosa,100,31.2521423,75.7036057,South Indian,4.0,Hot
+38th Block Canteen,Paneer Dosa,120,31.2521423,75.7036057,South Indian,4.0,Hot
+38th Block Canteen,Flavoured Rice,60,31.2521423,75.7036057,South Indian,4.0,Hot
+38th Block Canteen,Sambar Rice,60,31.2521423,75.7036057,South Indian,4.0,Hot
+38th Block Canteen,Samosa,15,31.2521423,75.7036057,Snack,4.0,Hot
+38th Block Canteen,Jumbo Aloo Sandwich,40,31.2521423,75.7036057,Snack,4.0,Hot
+38th Block Canteen,Jumbo Grilled Sandwich,70,31.2521423,75.7036057,Snack,4.0,Hot
+38th Block Canteen,Aloo Patty,25,31.2521423,75.7036057,Snack,4.0,Hot
+38th Block Canteen,Paneer Patty,35,31.2521423,75.7036057,Snack,4.0,Hot
+38th Block Canteen,Kachori,30,31.2521423,75.7036057,Snack,4.0,Hot
+38th Block Canteen,Veg Maggi,50,31.2521423,75.7036057,Snack,4.0,Hot
+38th Block Canteen,Poha with Raita,60,31.2521423,75.7036057,Breakfast,4.0,Hot
+38th Block Canteen,Golgappe,30,31.2521423,75.7036057,Snack,4.0,Cold
+38th Block Canteen,Momos,70,31.2521423,75.7036057,Snack,4.0,Hot
+38th Block Canteen,Sweet Corn,50,31.2521423,75.7036057,Snack,4.0,Hot
+38th Block Canteen,Veg Burger,50,31.2521423,75.7036057,Snack,4.0,Hot
+38th Block Canteen,Spring Roll,60,31.2521423,75.7036057,Snack,4.0,Hot
+38th Block Canteen,Tikki Matar,60,31.2521423,75.7036057,Snack,4.0,Hot
+38th Block Canteen,Chinese Combo,80,31.2521423,75.7036057,Snack,4.0,Hot
+38th Block Canteen,Nutri Kulcha,60,31.2521423,75.7036057,Snack,4.0,Hot
+38th Block Canteen,Shakes,50,31.2521423,75.7036057,Beverage,4.0,Cold
+38th Block Canteen,Lassi,40,31.2521423,75.7036057,Beverage,4.0,Cold
+38th Block Canteen,Tea,20,31.2521423,75.7036057,Beverage,4.0,Hot
+38th Block Canteen,Coffee,30,31.2521423,75.7036057,Beverage,4.0,Hot
+38th Block Canteen,Cold Coffee,50,31.2521423,75.7036057,Beverage,4.0,Cold
+38th Block Canteen,Milk Badaam,50,31.2521423,75.7036057,Beverage,4.0,Cold
+Chai Sutta Bar,Veg Grilled Sandwich,60,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Veg Corn Sandwich,60,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Tandoori Sandwich,70,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Paneer Sandwich,80,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Veg Patty Sub,60,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Paneer Makhani Sub,70,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Bun Makhhan,30,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Peri Peri Bun Makhhan,35,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Veg Crispy Burger,40,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Veg Cheese Burger,50,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Veg Paneer Burger,60,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Salted Fries,60,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Peri Peri Fries,70,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Loaded Fries,80,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Red Sauce Pasta,100,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,White Sauce Pasta,100,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Makhani Pasta,120,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Veg Spicy Wrap,50,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Tandoori Wrap,60,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Sweet Corn Wrap,60,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Paneer Wrap,70,31.2578735,75.7079519,Snack,4.0,Hot
+Chai Sutta Bar,Cold Coffee,60,31.2578735,75.7079519,Beverage,4.0,Cold
+Chai Sutta Bar,Choco Cold Coffee,70,31.2578735,75.7079519,Beverage,4.0,Cold
+Chai Sutta Bar,Brownie Shake,70,31.2578735,75.7079519,Beverage,4.0,Cold
+Chai Sutta Bar,Kitkat Shake,70,31.2578735,75.7079519,Beverage,4.0,Cold
+Chai Sutta Bar,Oreo Shake,70,31.2578735,75.7079519,Beverage,4.0,Cold
+Chai Sutta Bar,Butterscotch Shake,70,31.2578735,75.7079519,Beverage,4.0,Cold
+Chai Sutta Bar,Black Currant Shake,70,31.2578735,75.7079519,Beverage,4.0,Cold
+Chai Sutta Bar,Sweet Lassi,40,31.2578735,75.7079519,Beverage,4.0,Cold
+Chai Sutta Bar,Kulhad Lassi,50,31.2578735,75.7079519,Beverage,4.0,Cold
+Chai Sutta Bar,Mango Lassi,50,31.2578735,75.7079519,Beverage,4.0,Cold
+Chai Sutta Bar,Kesar Lassi,50,31.2578735,75.7079519,Beverage,4.0,Cold
+Chai Sutta Bar,Lemon Ice Tea,50,31.2578735,75.7079519,Beverage,4.0,Cold
+Chai Sutta Bar,Peach Ice Tea,60,31.2578735,75.7079519,Beverage,4.0,Cold
+Radhe Radhe Food,Banana Shake,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Chocolate Shake,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Cold Coffee,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Oreo Shake,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Strawberry Shake,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Papaya Shake,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Butterscotch Shake,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Mango Shake,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Apple Shake,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Vanilla Shake,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Pineapple Shake,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Kiwi Shake,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Brahmi Shake,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Black Currant Shake,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Mango Lassi,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Kitkat Shake,80,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Chocochip Shake,80,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Brownie Shake,80,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Oreo Thick Shake,80,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Mausami Juice,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Carrot Juice,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Orange Juice,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Mix Juice,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Muskmelon Juice,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Watermelon Juice,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Pineapple Juice,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Apple Juice,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Grape Juice,60,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Fresh Lime Soda,40,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Sugar Cane Juice,40,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Fresh Lime Water,30,31.2578489,75.7080883,Beverage,4.0,Cold
+Radhe Radhe Food,Pomegranate Juice,120,31.2578489,75.7080883,Beverage,4.0,Cold
+Hangouts,Plain Dosa,60,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Paper Dosa,70,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Ghee Dosa,70,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Butter Dosa,70,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Karam Dosa,70,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Ghee Karam Dosa,80,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Masala Dosa,70,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Onion Masala Dosa,80,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Butter Masala Dosa,80,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Ghee Masala Dosa,80,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Mysore Masala Dosa,90,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Upma Dosa,70,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Ghee Upma Dosa,80,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Karam Upma Dosa,80,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Onion Upma Dosa,80,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Rava Dosa,80,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Onion Rava Dosa,90,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Masala Rava Dosa,90,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Paneer Rava Dosa,120,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Paneer Dosa,120,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Corn Dosa,90,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Masala Corn Dosa,100,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Cheese Dosa,110,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Hangouts Special Dosa,130,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Idli,50,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Idli with Sambar,60,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Sambar Idli,50,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Ghee Idli,60,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Podi Idli,60,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Karam Idli,60,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Butter Idli,60,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Fried Idli,70,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Vada,50,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Sambar Vada,60,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Dahi Vada,60,31.2578985,75.7083569,South Indian,4.0,Cold
+Hangouts,Lemon Rice,60,31.2578985,75.7083569,Rice,4.0,Hot
+Hangouts,Sambar Rice,60,31.2578985,75.7083569,Rice,4.0,Hot
+Hangouts,Dal Rice,70,31.2578985,75.7083569,Rice,4.0,Hot
+Hangouts,Curd Rice,60,31.2578985,75.7083569,Rice,4.0,Cold
+Hangouts,Mysore Bonda,60,31.2578985,75.7083569,Snack,4.0,Hot
+Hangouts,Onion Bonda,60,31.2578985,75.7083569,Snack,4.0,Hot
+Hangouts,Punugullu,60,31.2578985,75.7083569,Snack,4.0,Hot
+Hangouts,Upma,50,31.2578985,75.7083569,South Indian,4.0,Hot
+Hangouts,Semiya Upma,60,31.2578985,75.7083569,South Indian,4.0,Hot
+Govind Fresh Bites,Veg Thali,80,31.2576829,75.7084491,Meal,4.0,Hot
+Govind Fresh Bites,Paneer Thali,90,31.2576829,75.7084491,Meal,4.0,Hot
+Govind Fresh Bites,Special Thali,100,31.2576829,75.7084491,Meal,4.0,Hot
+Govind Fresh Bites,Paneer Paratha,40,31.2576829,75.7084491,Breakfast,4.0,Hot
+Govind Fresh Bites,Mix Paratha,30,31.2576829,75.7084491,Breakfast,4.0,Hot
+Govind Fresh Bites,Aloo Paratha,30,31.2576829,75.7084491,Breakfast,4.0,Hot
+Govind Fresh Bites,Gobi Paratha,30,31.2576829,75.7084491,Breakfast,4.0,Hot
+Govind Fresh Bites,Onion Paratha,30,31.2576829,75.7084491,Breakfast,4.0,Hot
+Govind Fresh Bites,Mix Pakoda,50,31.2576829,75.7084491,Snack,4.0,Hot
+Govind Fresh Bites,Paneer Pakoda,20,31.2576829,75.7084491,Snack,4.0,Hot
+Govind Fresh Bites,Bread Pakoda,30,31.2576829,75.7084491,Snack,4.0,Hot
+Govind Fresh Bites,Chana Bhatura,60,31.2576829,75.7084491,Meal,4.0,Hot
+Govind Fresh Bites,Dal Rice,70,31.2576829,75.7084491,Meal,4.0,Hot
+Govind Fresh Bites,Rajma Rice,70,31.2576829,75.7084491,Meal,4.0,Hot
+Govind Fresh Bites,Chana Rice,70,31.2576829,75.7084491,Meal,4.0,Hot
+Govind Fresh Bites,Paneer Rice,90,31.2576829,75.7084491,Meal,4.0,Hot
+Govind Fresh Bites,Kadhi Rice,70,31.2576829,75.7084491,Meal,4.0,Hot
+Govind Fresh Bites,Rice Bowl,80,31.2576829,75.7084491,Meal,4.0,Hot
+Oven Xpress,Aloo Tikki Burger,40,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Mushroom Burger,70,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Paneer Burger,80,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Cheese Burger,60,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Veg Maharaja Burger,90,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Peri Peri Fries,80,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Large Fries,100,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Pizza Fries,140,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,White Sauce Pasta,120,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Red Sauce Pasta,120,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Aloo Tikki Sub,90,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Paneer Tikka Sub,120,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Mushroom Cheese Sub,120,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Mac Cheese Sandwich,120,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Paneer Cheese Sandwich,120,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Full Loaded Sandwich,150,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Margherita Pizza,130,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Onion Capsicum Pizza,130,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Cheese Corn Pizza,140,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Fully Loaded Pizza,150,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Paneer Tikka Pizza,160,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Farm House Pizza,160,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Pineapple Pizza,160,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Oven Special Pizza,180,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Extra Cheese,50,31.2577337,75.7082389,Addon,4.0,Normal
+Oven Xpress,Hyderabadi Veg Biryani,80,31.2577337,75.7082389,Meal,4.0,Hot
+Oven Xpress,Hyderabadi Paneer Biryani,120,31.2577337,75.7082389,Meal,4.0,Hot
+Oven Xpress,Veg Handi Biryani,180,31.2577337,75.7082389,Meal,4.0,Hot
+Oven Xpress,Paneer Handi Biryani,220,31.2577337,75.7082389,Meal,4.0,Hot
+Oven Xpress,Chilli Potato,90,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Honey Chilli Potato,90,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Paneer Manchurian,130,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Crispy Corn,130,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Veg Steam Momos,80,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Paneer Steam Momos,90,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Veg Fried Momos,80,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Paneer Fried Momos,90,31.2577337,75.7082389,Snack,4.0,Hot
+Oven Xpress,Green Salad,50,31.2577337,75.7082389,Healthy,4.0,Cold
+Oven Xpress,Onion Salad,40,31.2577337,75.7082389,Healthy,4.0,Cold
+Oven Xpress,Boondi Raita,60,31.2577337,75.7082389,Side,4.0,Cold
+Oven Xpress,Plain Naan,30,31.2577337,75.7082389,Bread,4.0,Hot
+Oven Xpress,Butter Naan,45,31.2577337,75.7082389,Bread,4.0,Hot
+Oven Xpress,Garlic Naan,45,31.2577337,75.7082389,Bread,4.0,Hot
+Oven Xpress,Aloo Paratha,30,31.2577337,75.7082389,Breakfast,4.0,Hot
+Oven Xpress,Gobi Paratha,30,31.2577337,75.7082389,Breakfast,4.0,Hot
+Oven Xpress,Mix Paratha,40,31.2577337,75.7082389,Breakfast,4.0,Hot
+Oven Xpress Cafe and Bakery,Lemon Iced Tea,60,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Peach Iced Tea,60,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Iced Latte,70,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Iced Cappuccino,70,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Iced Mocha Latte,80,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Iced Americano,100,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Cold Coffee,90,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Cafe Nirvana,90,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Cafe Frappe,90,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Choco Chip Frappe,100,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,White Choco Frappe,100,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Hot Brownie,60,31.2576947,75.7081530,Dessert,4.0,Hot
+Oven Xpress Cafe and Bakery,Brownie Sundae,150,31.2576947,75.7081530,Dessert,4.0,Cold
+Oven Xpress Cafe and Bakery,Ice Creamy Falter,70,31.2576947,75.7081530,Dessert,4.0,Cold
+Oven Xpress Cafe and Bakery,Fudge Sundae,150,31.2576947,75.7081530,Dessert,4.0,Cold
+Oven Xpress Cafe and Bakery,Classic Sundae,150,31.2576947,75.7081530,Dessert,4.0,Cold
+Oven Xpress Cafe and Bakery,Mint Mojito,60,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Virgin Mojito,60,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Green Apple Mojito,60,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Blue Curacao,60,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Masala Lemonade,70,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Special Oven Xpress Drink,80,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Kitkat Shake,90,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Oreo Shake,90,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Nutella Shake,150,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Biscoff Shake,150,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Ferrero Rocher Shake,150,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Mars Bar Shake,150,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Snickers Shake,150,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Strawberry Shake,90,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Mango Shake,90,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Pineapple Shake,90,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Butterscotch Shake,90,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Fruit Punch,150,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Black Currant Shake,150,31.2576947,75.7081530,Beverage,4.0,Cold
+Oven Xpress Cafe and Bakery,Espresso,40,31.2576947,75.7081530,Beverage,4.0,Hot
+Oven Xpress Cafe and Bakery,Cappuccino,60,31.2576947,75.7081530,Beverage,4.0,Hot
+Oven Xpress Cafe and Bakery,Latte,60,31.2576947,75.7081530,Beverage,4.0,Hot
+Oven Xpress Cafe and Bakery,Long Black,80,31.2576947,75.7081530,Beverage,4.0,Hot
+Oven Xpress Cafe and Bakery,Cafe Mocha,70,31.2576947,75.7081530,Beverage,4.0,Hot
+Oven Xpress Cafe and Bakery,Hot Chocolate,80,31.2576947,75.7081530,Beverage,4.0,Hot
+Oven Xpress Cafe and Bakery,Affogato,100,31.2576947,75.7081530,Dessert,4.0,Cold
+Punjabi Delights with Khushi,Delhi Chole Bhature,70,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Puri Chole,70,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Aloo Puri,70,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Paneer Chole Bhature,80,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Nutri Kulcha,70,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Matar Kulcha,60,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Stuffed Kulcha,40,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Chole Kulcha,70,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Rajma Rice,70,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Dal Rice,70,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Kadhi Rice,70,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Chole Rice,70,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Fried Rice,70,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Paneer Rice,90,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Aloo Samosa,15,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Chole Samosa,40,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Paneer Samosa,30,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Potle Samosa,60,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Vada Pav,50,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Pav Bhaji,70,31.2576018,75.7079110,Meal,4.0,Hot
+Punjabi Delights with Khushi,Veg Pav,50,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,French Fries,60,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Paneer Finger,100,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Paneer Pakoda,60,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Palak Pakoda,70,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Onion Pakoda,60,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Soya Bean Pakoda,60,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Mushroom Pakoda,80,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Bread Pakoda,30,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Methi Pakoda,30,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Baingan Pakoda,30,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Aloo Chips,20,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Gobhi Pakoda,60,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Mirchi Bhajiya,20,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Cutlet,20,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Paneer Bread Pakoda,40,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Aloo Adrak,20,31.2576018,75.7079110,Snack,4.0,Hot
+Punjabi Delights with Khushi,Lassan Tikka,20,31.2576018,75.7079110,Snack,4.0,Hot
+AB Juice Bar,Blue Mojito,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Green Mojito,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Mint Mojito,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Kiwi Mojito,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Mango Mojito,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Strawberry Mojito,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Bubblegum Mojito,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Black Currant Mojito,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Kacha Aam Mojito,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Lemon Soda,50,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Masala Lime Soda,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Sweet Lime Soda,40,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Fruit Cream,60,31.2506095,75.7048053,Dessert,4.0,Cold
+AB Juice Bar,Brownie,50,31.2506095,75.7048053,Dessert,4.0,Normal
+AB Juice Bar,Brownie with Ice Cream,70,31.2506095,75.7048053,Dessert,4.0,Cold
+AB Juice Bar,Chocolate Shake,70,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Banana Shake,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Mango Shake,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Vanilla Shake,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Strawberry Shake,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Oreo Shake,70,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Kitkat Shake,70,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Butterscotch Shake,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Black Currant Shake,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Pineapple Shake,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Papaya Shake,60,31.2506095,75.7048053,Beverage,4.0,Cold
+AB Juice Bar,Cold Coffee,70,31.2506095,75.7048053,Beverage,4.0,Cold
+Chaap and Tandoori Hub Express,Malai Chaap with Plain Naan,80,31.2506909,75.7046232,Meal,4.0,Hot
+Chaap and Tandoori Hub Express,Afghani Chaap with Plain Naan,80,31.2506909,75.7046232,Meal,4.0,Hot
+Chaap and Tandoori Hub Express,Irani Chaap with Plain Naan,80,31.2506909,75.7046232,Meal,4.0,Hot
+Chaap and Tandoori Hub Express,Masala Chaap with Plain Naan,80,31.2506909,75.7046232,Meal,4.0,Hot
+Chaap and Tandoori Hub Express,Tandoori Chaap with Plain Naan,80,31.2506909,75.7046232,Meal,4.0,Hot
+Chaap and Tandoori Hub Express,Achari Chaap with Plain Naan,80,31.2506909,75.7046232,Meal,4.0,Hot
+Chaap and Tandoori Hub Express,Pudina Chaap with Plain Naan,80,31.2506909,75.7046232,Meal,4.0,Hot
+Chaap and Tandoori Hub Express,Tawa Gravy Chaap with Plain Naan,90,31.2506909,75.7046232,Meal,4.0,Hot
+Chaap and Tandoori Hub Express,Tandoori Paneer Tikka,90,31.2506909,75.7046232,Snack,4.0,Hot
+Chaap and Tandoori Hub Express,Malai Paneer Tikka,90,31.2506909,75.7046232,Snack,4.0,Hot
+Chaap and Tandoori Hub Express,Pudina Paneer Tikka,90,31.2506909,75.7046232,Snack,4.0,Hot
+Chaap and Tandoori Hub Express,Mushroom Tikka,90,31.2506909,75.7046232,Snack,4.0,Hot
+Chaap and Tandoori Hub Express,Plain Butter Naan,15,31.2506909,75.7046232,Bread,4.0,Hot
+Chaap and Tandoori Hub Express,Malai Chaap Roll,70,31.2506909,75.7046232,Snack,4.0,Hot
+Chaap and Tandoori Hub Express,Afghani Chaap Roll,70,31.2506909,75.7046232,Snack,4.0,Hot
+Chaap and Tandoori Hub Express,Achari Chaap Roll,70,31.2506909,75.7046232,Snack,4.0,Hot
+Chaap and Tandoori Hub Express,Pudina Chaap Roll,70,31.2506909,75.7046232,Snack,4.0,Hot
+Chaap and Tandoori Hub Express,Masala Chaap Roll,70,31.2506909,75.7046232,Snack,4.0,Hot
+Chaap and Tandoori Hub Express,Tandoori Chaap Roll,70,31.2506909,75.7046232,Snack,4.0,Hot
+Chaap and Tandoori Hub Express,Irani Chaap Roll,70,31.2506909,75.7046232,Snack,4.0,Hot
+Chaap and Tandoori Hub Express,Paneer Tikka Roll,70,31.2506909,75.7046232,Snack,4.0,Hot
+Chaap and Tandoori Hub Express,Mushroom Tikka Roll,70,31.2506909,75.7046232,Snack,4.0,Hot
+Khao Piyo 2,Aloo Puri Chana,70,31.2506954,75.7045984,Meal,4.0,Hot
+Khao Piyo 2,Pav Bhaji,70,31.2506954,75.7045984,Meal,4.0,Hot
+Khao Piyo 2,Vada Pav,40,31.2506954,75.7045984,Snack,4.0,Hot
+Khao Piyo 2,Chatpata Vada Pav,50,31.2506954,75.7045984,Snack,4.0,Hot
+Khao Piyo 2,Special Poha,50,31.2506954,75.7045984,Meal,4.0,Hot
+Khao Piyo 2,Dahi Poha,50,31.2506954,75.7045984,Meal,4.0,Cold
+Khao Piyo 2,Chana Poha,50,31.2506954,75.7045984,Meal,4.0,Hot
+Khao Piyo 2,Extra Topping,10,31.2506954,75.7045984,Addon,4.0,Normal
+Khao Piyo 2,Veg Momos (Steamed),50,31.2506954,75.7045984,Snack,4.0,Hot
+Khao Piyo 2,Veg Momos (Fried),60,31.2506954,75.7045984,Snack,4.0,Hot
+Khao Piyo 2,Soya Momos (Steamed),50,31.2506954,75.7045984,Snack,4.0,Hot
+Khao Piyo 2,Soya Momos (Fried),60,31.2506954,75.7045984,Snack,4.0,Hot
+Khao Piyo 2,Paneer Momos (Steamed),70,31.2506954,75.7045984,Snack,4.0,Hot
+Khao Piyo 2,Paneer Momos (Fried),80,31.2506954,75.7045984,Snack,4.0,Hot
+Khao Piyo 2,Kurkure Momos (Steamed),70,31.2506954,75.7045984,Snack,4.0,Hot
+Khao Piyo 2,Kurkure Momos (Fried),80,31.2506954,75.7045984,Snack,4.0,Hot
+Khao Piyo 2,Dahi Papri Chaat,50,31.2506954,75.7045984,Snack,4.0,Cold
+Khao Piyo 2,Bhel Puri,50,31.2506954,75.7045984,Snack,4.0,Normal
+Khao Piyo 2,Tikki Chaat,60,31.2506954,75.7045984,Snack,4.0,Hot
+Khao Piyo 2,Papri Choley Chaat,50,31.2506954,75.7045984,Snack,4.0,Hot
+Khao Piyo 2,Sweet Corn Chaat,50,31.2506954,75.7045984,Snack,4.0,Hot
+Varindavan South Indian,Plain Dosa,50,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Onion Dosa,60,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Ghee Dosa,60,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Masala Dosa,70,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Karam Dosa,60,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Ghee Karam Dosa,70,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Onion Karam Dosa,70,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Set Dosa,70,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Paneer Dosa,80,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Paneer Set Dosa,80,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Ghee Paneer Dosa,80,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Upma Dosa,70,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Butter Dosa,60,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Idli,50,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Vada,50,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Mysore Bonda,50,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Punugulu,50,31.2507069,75.7045773,South Indian,4.2,Hot
+Varindavan South Indian,Mirchi Bhajji,60,31.2507069,75.7045773,Snack,4.2,Hot
+Kamal Juice & Shake Corner,Banana Shake (300ml),50,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Banana Shake (400ml),60,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Banana Shake (500ml),70,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Chocolate Shake (300ml),50,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Chocolate Shake (400ml),60,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Chocolate Shake (500ml),70,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Mango Shake (300ml),50,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Mango Shake (400ml),60,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Mango Shake (500ml),70,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Cold Coffee (300ml),50,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Cold Coffee (400ml),60,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Cold Coffee (500ml),70,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Strawberry Shake (300ml),50,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Strawberry Shake (400ml),60,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Strawberry Shake (500ml),70,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Black Currant Shake (300ml),50,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Black Currant Shake (400ml),60,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Black Currant Shake (500ml),70,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Brahmi Badam (300ml),50,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Brahmi Badam (400ml),60,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Brahmi Badam (500ml),70,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Orange Juice (300ml),50,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Orange Juice (400ml),60,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Orange Juice (500ml),70,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Carrot Juice (300ml),50,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Carrot Juice (400ml),60,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Carrot Juice (500ml),70,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Mix Juice (300ml),50,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Mix Juice (400ml),60,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Mix Juice (500ml),70,31.2507175,75.7045750,Beverage,4.3,Cold
+Kamal Juice & Shake Corner,Fruit Chaat (450g),50,31.2507175,75.7045750,Snack,4.3,Cold
+Kamal Juice & Shake Corner,Fruit Chaat (650g),70,31.2507175,75.7045750,Snack,4.3,Cold
+Nepali Swadh,Veg Thukpa,50,31.2507307,75.7045629,Asian,4.2,Hot
+Nepali Swadh,Chicken Thukpa,70,31.2507307,75.7045629,Asian,4.2,Hot
+Nepali Swadh,Mushroom Thukpa,70,31.2507307,75.7045629,Asian,4.2,Hot
+Nepali Swadh,Keema Thukpa,70,31.2507307,75.7045629,Asian,4.2,Hot
+Nepali Swadh,Mix Thukpa,80,31.2507307,75.7045629,Asian,4.2,Hot
+Nepali Swadh,Veg Noodles,50,31.2507307,75.7045629,Chinese,4.2,Hot
+Nepali Swadh,Corn Noodles,70,31.2507307,75.7045629,Chinese,4.2,Hot
+Nepali Swadh,Keema Noodles,70,31.2507307,75.7045629,Chinese,4.2,Hot
+Nepali Swadh,Paneer Noodles,80,31.2507307,75.7045629,Chinese,4.2,Hot
+Nepali Swadh,Mushroom Noodles,80,31.2507307,75.7045629,Chinese,4.2,Hot
+Nepali Swadh,Mix Noodles,90,31.2507307,75.7045629,Chinese,4.2,Hot
+Nepali Swadh,Paneer Chilli Noodles,90,31.2507307,75.7045629,Chinese,4.2,Hot
+Nepali Swadh,Manchurian Noodles,80,31.2507307,75.7045629,Chinese,4.2,Hot
+Nepali Swadh,Veg Steam Momo,50,31.2507307,75.7045629,Snack,4.2,Hot
+Nepali Swadh,Fry Momo,70,31.2507307,75.7045629,Snack,4.2,Hot
+Nepali Swadh,Kurkure Momo,80,31.2507307,75.7045629,Snack,4.2,Hot
+Nepali Swadh,Afgani Momo,80,31.2507307,75.7045629,Snack,4.2,Hot
+Nepali Swadh,Tandoori Momo,80,31.2507307,75.7045629,Snack,4.2,Hot
+Nepali Swadh,Jhol Momo,70,31.2507307,75.7045629,Snack,4.2,Hot
+Nepali Swadh,Chilli Momo,80,31.2507307,75.7045629,Snack,4.2,Hot
+Nepali Swadh,Malai Cheese Momo,80,31.2507307,75.7045629,Snack,4.2,Hot
+Nepali Swadh,Cheese Corn Pizza,90,31.2507307,75.7045629,Fast Food,4.2,Hot
+Nepali Swadh,Onion Capsicum Pizza,100,31.2507307,75.7045629,Fast Food,4.2,Hot
+Nepali Swadh,Margherita Pizza,110,31.2507307,75.7045629,Fast Food,4.2,Hot
+Nepali Swadh,Paneer Pizza,120,31.2507307,75.7045629,Fast Food,4.2,Hot
+Nepali Swadh,Fully Loaded Pizza,150,31.2507307,75.7045629,Fast Food,4.2,Hot
+Nepali Swadh,Red Pasta,70,31.2507307,75.7045629,Italian,4.2,Hot
+Nepali Swadh,White Pasta,70,31.2507307,75.7045629,Italian,4.2,Hot
+Nepali Swadh,Baked Pasta,90,31.2507307,75.7045629,Italian,4.2,Hot
+Nepali Swadh,Paneer Pasta,80,31.2507307,75.7045629,Italian,4.2,Hot
+Nepali Swadh,Fully Loaded Pasta,100,31.2507307,75.7045629,Italian,4.2,Hot
+Nepali Swadh,Peri Peri Fries,60,31.2507307,75.7045629,Snack,4.2,Hot
+Nepali Swadh,Masala Fries,60,31.2507307,75.7045629,Snack,4.2,Hot
+Nepali Swadh,Cheese Fries,80,31.2507307,75.7045629,Snack,4.2,Hot
+Nepali Swadh,Honey Chilli Potato,80,31.2507307,75.7045629,Snack,4.2,Hot
+Flavours Juice & Shakes Bar,Mix Fruit Juice (Small),50,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Mix Fruit Juice (Medium),60,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Mix Fruit Juice (Large),70,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Orange Juice,50,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Mausmi Juice,60,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Pineapple Juice,60,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Apple Juice,60,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Watermelon Juice,50,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Pomegranate Juice,100,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Carrot Juice,50,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Mix Vegetable Juice,50,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Banana Shake,50,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Mango Shake,60,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Chocolate Shake,60,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Oreo Shake,70,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Strawberry Shake,60,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Black Currant Shake,60,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Butterscotch Shake,60,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Vanilla Shake,50,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Kiwi Shake,70,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Brahmi Badam Shake,70,31.2507373,75.7044784,Beverage,4.2,Cold
+Flavours Juice & Shakes Bar,Fruit Salad,60,31.2507373,75.7044784,Snack,4.2,Cold
+Varindavan,Tea,10,31.2505063,75.7045810,Beverage,4.1,Hot
+Varindavan,Espresso Coffee,20,31.2505063,75.7045810,Beverage,4.1,Hot
+Varindavan,Paratha,25,31.2505063,75.7045810,Snack,4.1,Hot
+Varindavan,Chana Samosa,45,31.2505063,75.7045810,Snack,4.1,Hot
+Varindavan,Chana Bhatura,50,31.2505063,75.7045810,North Indian,4.1,Hot
+Varindavan,Chana Puri,50,31.2505063,75.7045810,North Indian,4.1,Hot
+Varindavan,Chana Kulcha,50,31.2505063,75.7045810,North Indian,4.1,Hot
+Varindavan,Panner Roll,60,31.2505063,75.7045810,Fast Food,4.1,Hot
+Varindavan,Vada (3 Pc),60,31.2505063,75.7045810,Snack,4.1,Hot
+Varindavan,Mirchi Bajji (3 Pc),60,31.2505063,75.7045810,Snack,4.1,Hot
+Varindavan,Paratha and Coke,45,31.2505063,75.7045810,Combo,4.1,Cold
+Varindavan,Chana Samosa and Coke,65,31.2505063,75.7045810,Combo,4.1,Cold
+Varindavan,Chana Bhatura and Coke,70,31.2505063,75.7045810,Combo,4.1,Cold
+Varindavan,Paneer Roll and Coke,80,31.2505063,75.7045810,Combo,4.1,Cold
+Protein O Shake,Soya Veg Burger,40,31.2505025,75.7046045,Fast Food,4.4,Hot
+Protein O Shake,Cheese Burger,70,31.2505025,75.7046045,Fast Food,4.4,Hot
+Protein O Shake,Paneer Patty Burger,80,31.2505025,75.7046045,Fast Food,4.4,Hot
+Protein O Shake,Mexican Patty Burger,90,31.2505025,75.7046045,Fast Food,4.4,Hot
+Protein O Shake,Veggie Delight Sub,80,31.2505025,75.7046045,Fast Food,4.4,Cold
+Protein O Shake,Paneer Patty Sub,90,31.2505025,75.7046045,Fast Food,4.4,Cold
+Protein O Shake,Mexican Patty Sub,100,31.2505025,75.7046045,Fast Food,4.4,Cold
+Protein O Shake,Tofu Wrap,60,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Panner Wrap,80,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Hummus Wrap,90,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Grilled Sandwich,50,31.2505025,75.7046045,Snack,4.4,Hot
+Protein O Shake,Paneer Sandwich,70,31.2505025,75.7046045,Snack,4.4,Hot
+Protein O Shake,Mushroom Sandwich,90,31.2505025,75.7046045,Snack,4.4,Hot
+Protein O Shake,Sweet Corn Soup,50,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Hot and Sour Soup,50,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Tomato Soup,60,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Broccoli Soup,60,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Mushroom Soup,60,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Manchow Soup,60,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Soya Veg Burger,40,31.2505025,75.7046045,Fast Food,4.4,Hot
+Protein O Shake,Cheese Burger,70,31.2505025,75.7046045,Fast Food,4.4,Hot
+Protein O Shake,Paneer Patty Burger,80,31.2505025,75.7046045,Fast Food,4.4,Hot
+Protein O Shake,Mexican Patty Burger,90,31.2505025,75.7046045,Fast Food,4.4,Hot
+Protein O Shake,Veggie Delight Sub,80,31.2505025,75.7046045,Fast Food,4.4,Cold
+Protein O Shake,Paneer Patty Sub,90,31.2505025,75.7046045,Fast Food,4.4,Cold
+Protein O Shake,Mexican Patty Sub,100,31.2505025,75.7046045,Fast Food,4.4,Cold
+Protein O Shake,Tofu Wrap,60,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Panner Wrap,80,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Hummus Wrap,90,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Grilled Sandwich,50,31.2505025,75.7046045,Snack,4.4,Hot
+Protein O Shake,Paneer Sandwich,70,31.2505025,75.7046045,Snack,4.4,Hot
+Protein O Shake,Mushroom Sandwich,90,31.2505025,75.7046045,Snack,4.4,Hot
+Protein O Shake,Sweet Corn Soup,50,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Hot and Sour Soup,50,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Tomato Soup,60,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Broccoli Soup,60,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Mushroom Soup,60,31.2505025,75.7046045,Healthy,4.4,Hot
+Protein O Shake,Manchow Soup,60,31.2505025,75.7046045,Healthy,4.4,Hot
+Desi Urban Chai,Adrak Chai,20,31.2505266,75.7046769,Beverage,4.2,Hot
+Desi Urban Chai,Chocolate Chai,25,31.2505266,75.7046769,Beverage,4.2,Hot
+Desi Urban Chai,Masala Chai,30,31.2505266,75.7046769,Beverage,4.2,Hot
+Desi Urban Chai,Green Tea,25,31.2505266,75.7046769,Beverage,4.2,Hot
+Desi Urban Chai,Black Cold Coffee,50,31.2505266,75.7046769,Beverage,4.2,Cold
+Desi Urban Chai,Choco Cold Coffee,80,31.2505266,75.7046769,Beverage,4.2,Cold
+Desi Urban Chai,Caramel Cold Coffee,85,31.2505266,75.7046769,Beverage,4.2,Cold
+Desi Urban Chai,Brownie Cold Coffee,85,31.2505266,75.7046769,Beverage,4.2,Cold
+Desi Urban Chai,Red Sauce Pasta,50,31.2505266,75.7046769,Fast Food,4.2,Hot
+Desi Urban Chai,White Sauce Pasta,60,31.2505266,75.7046769,Fast Food,4.2,Hot
+Desi Urban Chai,Mix Sauce Pasta,60,31.2505266,75.7046769,Fast Food,4.2,Hot
+Desi Urban Chai,Tandoori Pasta,60,31.2505266,75.7046769,Fast Food,4.2,Hot
+Desi Urban Chai,Margherita Pizza,130,31.2505266,75.7046769,Fast Food,4.2,Hot
+Desi Urban Chai,Farm Fresh Pizza,140,31.2505266,75.7046769,Fast Food,4.2,Hot
+Desi Urban Chai,Tandoori Paneer Pizza,160,31.2505266,75.7046769,Fast Food,4.2,Hot
+Desi Urban Chai,Aloo Tikki Burger,50,31.2505266,75.7046769,Snack,4.2,Hot
+Desi Urban Chai,Cheese Veg Burger,70,31.2505266,75.7046769,Snack,4.2,Hot
+Desi Urban Chai,Paneer Burger,90,31.2505266,75.7046769,Snack,4.2,Hot
+Desi Urban Chai,Plain Maggi,40,31.2505266,75.7046769,Snack,4.2,Hot
+Desi Urban Chai,Double Masala Maggi,50,31.2505266,75.7046769,Snack,4.2,Hot
+Desi Urban Chai,Cheese Maggi,70,31.2505266,75.7046769,Snack,4.2,Hot
+Desi Urban Chai,French Fries,55,31.2505266,75.7046769,Snack,4.2,Hot
+Desi Urban Chai,Peri Peri Fries,60,31.2505266,75.7046769,Snack,4.2,Hot
+Desi Urban Chai,Cheese Garlic Bread,80,31.2505266,75.7046769,Snack,4.2,Hot
+Desi Urban Chai,Corn Chat,55,31.2505266,75.7046769,Snack,4.2,Normal
+North East Kitchen,Veg Noodles,50,31.2505470,75.7047118,Fast Food,4.3,Hot
+North East Kitchen,Corn Noodles,60,31.2505470,75.7047118,Fast Food,4.3,Hot
+North East Kitchen,Paneer Noodles,70,31.2505470,75.7047118,Fast Food,4.3,Hot
+North East Kitchen,Hakka Noodles,80,31.2505470,75.7047118,Fast Food,4.3,Hot
+North East Kitchen,Chilli Paneer Noodles,80,31.2505470,75.7047118,Fast Food,4.3,Hot
+North East Kitchen,Spring Roll,60,31.2505470,75.7047118,Snack,4.3,Hot
+North East Kitchen,Steamed Momos,50,31.2505470,75.7047118,Snack,4.3,Hot
+North East Kitchen,Kurkure Momos,60,31.2505470,75.7047118,Snack,4.3,Hot
+North East Kitchen,Tandoori Momos,70,31.2505470,75.7047118,Snack,4.3,Hot
+North East Kitchen,Chilli Garlic Momos,70,31.2505470,75.7047118,Snack,4.3,Hot
+North East Kitchen,Chilli Potato,80,31.2505470,75.7047118,Snack,4.3,Hot
+North East Kitchen,Honey Chilli Potato,80,31.2505470,75.7047118,Snack,4.3,Hot
+North East Kitchen,Masala Fries,60,31.2505470,75.7047118,Snack,4.3,Hot
+North East Kitchen,Peri Peri Fries,60,31.2505470,75.7047118,Snack,4.3,Hot
+North East Kitchen,Chilli Tofu,60,31.2505470,75.7047118,Fast Food,4.3,Hot
+North East Kitchen,Mughlai Paratha,80,31.2505470,75.7047118,Main Course,4.3,Hot
+North East Kitchen,Aloo Chop,15,31.2505470,75.7047118,Snack,4.3,Hot
+North East Kitchen,Singara,15,31.2505470,75.7047118,Snack,4.3,Hot
+North East Kitchen,Cutlet,15,31.2505470,75.7047118,Snack,4.3,Hot
+Bengali Bawarchi,Kolkata Roll,60,31.2504945,75.7047594,Fast Food,4.3,Hot
+Bengali Bawarchi,Kolkata Rice Bowl,70,31.2504945,75.7047594,Main Course,4.3,Hot
+Bengali Bawarchi,Dal Puri Ghugni,60,31.2504945,75.7047594,Main Course,4.3,Hot
+Bengali Bawarchi,Bengali Thali (Normal),80,31.2504945,75.7047594,Main Course,4.3,Hot
+Bengali Bawarchi,Bengali Thali (Special),100,31.2504945,75.7047594,Main Course,4.3,Hot
+Bengali Bawarchi,Kasha Soya Gravy,80,31.2504945,75.7047594,Main Course,4.3,Hot
+Bengali Bawarchi,Kolkata Dum Biryani,90,31.2504945,75.7047594,Main Course,4.3,Hot
+Bengali Bawarchi,Plain Rice with Curry,60,31.2504945,75.7047594,Main Course,4.3,Hot
+K. Lazeerz Kathi Roll,Malai Mix Veg Roll,50,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Korma Mix Veg Roll,70,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Malai Aloo Masala Roll,50,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Achari Aloo Masala Roll,60,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Korma Aloo Masala Roll,70,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Malai Paneer Roll,70,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Malai Mushroom Roll,70,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Malai Sweet Corn Roll,70,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Achari Sweet Corn Roll,70,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Garlic Sweet Corn Roll,70,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Korma Sweet Corn Roll,80,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Soya Malai Chaap Roll,90,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Red Chilli Chaap Roll,90,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Green Chilli Chaap Roll,90,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Korma Mushroom Roll,90,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Garlic Malai Paneer Roll,90,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Mint Malai Paneer Roll,90,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Schezwan Malai Paneer Roll,90,31.2469213,75.7044563,Fast Food,4.3,Hot
+K. Lazeerz Kathi Roll,Kali Mirch Paneer Roll,90,31.2469213,75.7044563,Fast Food,4.3,Hot
+Break Zone,Veg Cheese Sandwich,90,31.2469775,75.7044157,Fast Food,4.4,Hot
+Break Zone,Paneer Makhni Sandwich,110,31.2469775,75.7044157,Fast Food,4.4,Hot
+Break Zone,Chipotle Paneer Sandwich,130,31.2469775,75.7044157,Fast Food,4.4,Hot
+Break Zone,Paneer Mint Sandwich,50,31.2469775,75.7044157,Fast Food,4.4,Hot
+Break Zone,Salted Fries,90,31.2469775,75.7044157,Fast Food,4.4,Hot
+Break Zone,Peri Peri Fries,90,31.2469775,75.7044157,Fast Food,4.4,Hot
+Break Zone,Cheese Fries,100,31.2469775,75.7044157,Fast Food,4.4,Hot
+Break Zone,Loaded Fries,130,31.2469775,75.7044157,Fast Food,4.4,Hot
+Break Zone,Ultimate Fries Bucket,150,31.2469775,75.7044157,Fast Food,4.4,Hot
+Break Zone,Virgin Mojito,70,31.2469775,75.7044157,Beverage,4.4,Cold
+Break Zone,Green Apple Mojito,70,31.2469775,75.7044157,Beverage,4.4,Cold
+Break Zone,Watermelon Mojito,70,31.2469775,75.7044157,Beverage,4.4,Cold
+Break Zone,Peach Mojito,70,31.2469775,75.7044157,Beverage,4.4,Cold
+Break Zone,White Sauce Pasta,100,31.2469775,75.7044157,Fast Food,4.4,Hot
+Break Zone,Red Sauce Pasta,100,31.2469775,75.7044157,Fast Food,4.4,Hot
+Break Zone,Mix Sauce Pasta,110,31.2469775,75.7044157,Fast Food,4.4,Hot
+Nand Juice,Banana Shake,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Chocolate Shake,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Cold Coffee,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Oreo Milk Shake,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Strawberry Shake,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Mango Shake,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Apple Shake,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Vanilla Shake,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Pineapple Shake,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Kiwi Shake,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Black Currant Shake,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Mango Lassi,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Kitkat Shake,70,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Oreo Shake,70,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Brownie Shake,70,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Carrot Juice,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Orange Juice,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Mix Juice,60,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Watermelon Juice,50,31.2468938,75.7044761,Beverage,4.3,Cold
+Nand Juice,Pomegranate Juice,100,31.2468938,75.7044761,Beverage,4.3,Cold
+Campus Fusion Chinese,Noodles,50,31.2505470,75.7047118,Chinese,4.2,Hot
+Campus Fusion Chinese,Manchurian,70,31.2505470,75.7047118,Chinese,4.2,Hot
+Campus Fusion Chinese,Honey Chilli Potato,60,31.2505470,75.7047118,Chinese,4.2,Hot
+Campus Fusion Chinese,Chilli Paneer,100,31.2505470,75.7047118,Chinese,4.2,Hot
+Campus Fusion Chinese,Fry Potato,50,31.2505470,75.7047118,Chinese,4.2,Hot
+Campus Fusion Chinese,Veg Momos,60,31.2505470,75.7047118,Chinese,4.2,Hot
+Campus Fusion Chinese,Paneer Momos,80,31.2505470,75.7047118,Chinese,4.2,Hot
+Campus Fusion Chinese,Spring Roll,60,31.2505470,75.7047118,Chinese,4.2,Hot
+Campus Fusion Chinese,Chilli Mushroom,100,31.2505470,75.7047118,Chinese,4.2,Hot
+Campus Fusion Chinese,Chilli Potato,60,31.2505470,75.7047118,Chinese,4.2,Hot
+Campus Fusion Chinese,Noodles + Honey Chilli Potato,90,31.2505470,75.7047118,Combo,4.2,Hot
+Campus Fusion Chinese,Noodles + Fry Potato,90,31.2505470,75.7047118,Combo,4.2,Hot
+Campus Fusion Chinese,Noodles + Manchurian,90,31.2505470,75.7047118,Combo,4.2,Hot
+Campus Fusion Chinese,Noodles + Chilli Paneer,120,31.2505470,75.7047118,Combo,4.2,Hot
+Protein House,Soy Salad,50,31.2468729,75.7043453,Healthy,4.4,Cold
+Protein House,Maxican Salad,80,31.2468729,75.7043453,Healthy,4.4,Cold
+Protein House,Russian Salad,80,31.2468729,75.7043453,Healthy,4.4,Cold
+Protein House,Hearty Vegan Salad,100,31.2468729,75.7043453,Healthy,4.4,Cold
+Protein House,Broccoli Salad,100,31.2468729,75.7043453,Healthy,4.4,Cold
+Protein House,Protein Rich Salad,120,31.2468729,75.7043453,Healthy,4.4,Cold
+Protein House,Sprouts Salad,50,31.2468729,75.7043453,Healthy,4.4,Cold
+Protein House,Steam Salad,50,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Steam Corn,60,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Steam Sprouts,25,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Steam Beans,50,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Sweet Potato,50,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Grill Paneer,50,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Paneer Raw,40,31.2468729,75.7043453,Healthy,4.4,Cold
+Protein House,Grill Tofu,50,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Steam Broccoli,25,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Banana Krusher,30,31.2468729,75.7043453,Beverage,4.4,Cold
+Protein House,Strawberry Krusher,30,31.2468729,75.7043453,Beverage,4.4,Cold
+Protein House,Pista Krusher,50,31.2468729,75.7043453,Beverage,4.4,Cold
+Protein House,Vanilla Krusher,50,31.2468729,75.7043453,Beverage,4.4,Cold
+Protein House,Mango Krusher,50,31.2468729,75.7043453,Beverage,4.4,Cold
+Protein House,Protein Shake,70,31.2468729,75.7043453,Beverage,4.4,Cold
+Protein House,Protein Shake Dry Fruit,90,31.2468729,75.7043453,Beverage,4.4,Cold
+Protein House,Mojito Soda,40,31.2468729,75.7043453,Beverage,4.4,Cold
+Protein House,Green Apple Soda,40,31.2468729,75.7043453,Beverage,4.4,Cold
+Protein House,Fresh Lime Soda,40,31.2468729,75.7043453,Beverage,4.4,Cold
+Protein House,Tofu Cold Sandwich,25,31.2468729,75.7043453,Healthy,4.4,Cold
+Protein House,Tofu Grill Sandwich,30,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Keema Sandwich,40,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Paneer Sandwich,50,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Bean Sandwich,50,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Corn Sandwich,50,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Vegan Sandwich,50,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Peanut Butter Sandwich,50,31.2468729,75.7043453,Healthy,4.4,Cold
+Protein House,Tofu Wrap,50,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Corn Wrap,60,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Beans Wrap,70,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Keema Wrap,80,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Vegan Wrap,80,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Paneer Wrap,80,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Oats Wrap,80,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Tofu Tikka Sub,70,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Keema Sub,70,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Vegan Sub,80,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Paneer Tikka Sub,80,31.2468729,75.7043453,Healthy,4.4,Hot
+Protein House,Soy Veggie Burger,40,31.2468729,75.7043453,Fast Food,4.4,Hot
+Protein House,Tofu Patties Burger,50,31.2468729,75.7043453,Fast Food,4.4,Hot
+Protein House,Chunks Burger,80,31.2468729,75.7043453,Fast Food,4.4,Hot
+Protein House,Vegan Burger,70,31.2468729,75.7043453,Fast Food,4.4,Hot
+Protein House,Paneer Burger,80,31.2468729,75.7043453,Fast Food,4.4,Hot
+Southern Spices,Idli (4 pcs),50,31.2470291,75.7043470,South Indian,4.1,Hot
+Southern Spices,Vada (4 pcs),50,31.2470291,75.7043470,South Indian,4.1,Hot
+Southern Spices,Mysore Bonda (4 pcs),40,31.2470291,75.7043470,South Indian,4.1,Hot
+Southern Spices,Punugulu (150 gm),50,31.2470291,75.7043470,South Indian,4.1,Hot
+Southern Spices,Plain Dosa,60,31.2470291,75.7043470,South Indian,4.1,Hot
+Southern Spices,Karam Dosa,60,31.2470291,75.7043470,South Indian,4.1,Hot
+Southern Spices,Uttapam,60,31.2470291,75.7043470,South Indian,4.1,Hot
+Southern Spices,Paneer Dosa,70,31.2470291,75.7043470,South Indian,4.1,Hot
+Southern Spices,Ghee Karam Idli,50,31.2470291,75.7043470,South Indian,4.1,Hot
+Southern Spices,Upma,50,31.2470291,75.7043470,South Indian,4.1,Hot
+Southern Spices,Gobi Pakora,30,31.2470291,75.7043470,Snacks,4.1,Hot
+Southern Spices,Mix Pakora,30,31.2470291,75.7043470,Snacks,4.1,Hot
+Southern Spices,Bread Pakora,15,31.2470291,75.7043470,Snacks,4.1,Hot
+Southern Spices,Mirchi Bajji,10,31.2470291,75.7043470,Snacks,4.1,Hot
+Southern Spices,Cold Drink,40,31.2470291,75.7043470,Beverage,4.1,Cold
+Southern Spices,Water,20,31.2470291,75.7043470,Beverage,4.1,Cold
+N.K Food Court,Banana Shake,55,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Roohafza Shake,55,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Mango Shake,65,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Strawberry Shake,65,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Chocolate Shake,70,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Cold Coffee,70,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Butterscotch Shake,70,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Black Currant Shake,70,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Oreo Shake,80,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Kitkat Shake,80,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Vanilla Shake,70,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Nimbu Pani,25,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Nimbu Soda,40,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Masala Soda,45,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Masala Lemonade,45,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Special Sweet Lassi,50,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Salted Lassi,50,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Mango Lassi,60,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Virgin Mojito,90,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Blue Berry Mojito,100,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Bread Butter Toast,50,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Aloo Masala Toast,70,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Chilly Cheese Toast,130,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Veg Grilled Sandwich,80,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Cheese Grilled Sandwich,100,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Spicy Paneer Grilled Sandwich,110,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Creamy Paneer Sandwich,120,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Creamy Mushroom Sandwich,110,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,N.K Veggie Burger,50,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Noodle Burger,60,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Cheese Burger,70,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Vegetable Wrap,80,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Paneer Wrap,90,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Mushroom Wrap,90,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Veggie Blast Pizza,170,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Paneer Makhani Pizza,180,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,N.K Special Pizza,180,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Red Sauce Pasta,120,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,White Sauce Pasta,120,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,French Fries,70,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Loaded Fries,90,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Desi Chowmein,80,31.2469259,75.7046578,Chinese,4.2,Hot
+N.K Food Court,Paneer Noodles,90,31.2469259,75.7046578,Chinese,4.2,Hot
+N.K Food Court,Hakka Noodles,90,31.2469259,75.7046578,Chinese,4.2,Hot
+N.K Food Court,Chilli Garlic Noodles,90,31.2469259,75.7046578,Chinese,4.2,Hot
+N.K Food Court,Spring Roll,80,31.2469259,75.7046578,Chinese,4.2,Hot
+N.K Food Court,Chilli Paneer (Dry/Gravy),135,31.2469259,75.7046578,Chinese,4.2,Hot
+N.K Food Court,Chilli Mushroom,130,31.2469259,75.7046578,Chinese,4.2,Hot
+N.K Food Court,Veg Manchurian (Dry/Gravy),110,31.2469259,75.7046578,Chinese,4.2,Hot
+N.K Food Court,Honey Chilli Potato,100,31.2469259,75.7046578,Chinese,4.2,Hot
+N.K Food Court,Aloo Tikki Chaat,60,31.2469259,75.7046578,Snacks,4.2,Hot
+N.K Food Court,Bhel Puri,60,31.2469259,75.7046578,Snacks,4.2,Cold
+N.K Food Court,Dahi Puri,60,31.2469259,75.7046578,Snacks,4.2,Cold
+N.K Food Court,Papri Chaat,60,31.2469259,75.7046578,Snacks,4.2,Cold
+N.K Food Court,Bhalla Papri Chaat,60,31.2469259,75.7046578,Snacks,4.2,Cold
+N.K Food Court,Dahi Bhalla,60,31.2469259,75.7046578,Snacks,4.2,Cold
+N.K Food Court,Chana Samosa Chaat,60,31.2469259,75.7046578,Snacks,4.2,Hot
+N.K Food Court,Pav Bhaji,80,31.2469259,75.7046578,Snacks,4.2,Hot
+N.K Food Court,Stuffed Prantha with Butter,40,31.2469259,75.7046578,Main Course,4.2,Hot
+N.K Food Court,Paneer Prantha with Butter,50,31.2469259,75.7046578,Main Course,4.2,Hot
+N.K Food Court,Plain Prantha,30,31.2469259,75.7046578,Main Course,4.2,Hot
+N.K Food Court,Masala Dosa,80,31.2469259,75.7046578,South Indian,4.2,Hot
+N.K Food Court,Onion Masala Dosa,90,31.2469259,75.7046578,South Indian,4.2,Hot
+N.K Food Court,Paneer Dosa,110,31.2469259,75.7046578,South Indian,4.2,Hot
+N.K Food Court,Plain Dosa,70,31.2469259,75.7046578,South Indian,4.2,Hot
+N.K Food Court,Sambar Rice,60,31.2469259,75.7046578,South Indian,4.2,Hot
+N.K Food Court,Plain Rice,40,31.2469259,75.7046578,Rice,4.2,Hot
+N.K Food Court,Jeera Rice,45,31.2469259,75.7046578,Rice,4.2,Hot
+N.K Food Court,Veg Pulao,80,31.2469259,75.7046578,Rice,4.2,Hot
+N.K Food Court,Gobhi Rice,90,31.2469259,75.7046578,Rice,4.2,Hot
+N.K Food Court,Veg Biryani,80,31.2469259,75.7046578,Rice,4.2,Hot
+N.K Food Court,Paneer Biryani,100,31.2469259,75.7046578,Rice,4.2,Hot
+N.K Food Court,Fried Rice,90,31.2469259,75.7046578,Rice,4.2,Hot
+N.K Food Court,Normal Thali,90,31.2469259,75.7046578,Meal,4.2,Hot
+N.K Food Court,Special Thali,140,31.2469259,75.7046578,Meal,4.2,Hot
+N.K Food Court,Rajma Rice,70,31.2469259,75.7046578,Meal,4.2,Hot
+N.K Food Court,Chana Rice,70,31.2469259,75.7046578,Meal,4.2,Hot
+N.K Food Court,Kadhi Rice,70,31.2469259,75.7046578,Meal,4.2,Hot
+N.K Food Court,Nutri Sandwich,90,31.2469259,75.7046578,Healthy,4.2,Hot
+N.K Food Court,Spinach Corn Sandwich,100,31.2469259,75.7046578,Healthy,4.2,Hot
+N.K Food Court,Nutri Pulao with Curd,95,31.2469259,75.7046578,Healthy,4.2,Hot
+N.K Food Court,Triple Protein Salad,100,31.2469259,75.7046578,Healthy,4.2,Cold
+N.K Food Court,Tofu Bhurji Wrap,90,31.2469259,75.7046578,Healthy,4.2,Hot
+N.K Food Court,Paneer Tikka Rice Bowl,140,31.2469259,75.7046578,Healthy,4.2,Hot
+N.K Food Court,Gulab Jamun (2pc),40,31.2469259,75.7046578,Dessert,4.2,Hot
+N.K Food Court,Moong Dal Halwa,60,31.2469259,75.7046578,Dessert,4.2,Hot
+N.K Food Court,Gajar Halwa,60,31.2469259,75.7046578,Dessert,4.2,Hot
+N.K Food Court,Kesar Rasmalai (2pc),60,31.2469259,75.7046578,Dessert,4.2,Cold
+N.K Food Court,Rasgulla (2pc),40,31.2469259,75.7046578,Dessert,4.2,Cold
+N.K Food Court,Rabri Shots,60,31.2469259,75.7046578,Dessert,4.2,Cold
+N.K Food Court,Chilli Paneer,100,31.2469259,75.7046578,Chinese,4.2,Hot
+N.K Food Court,Hakka Noodles,90,31.2469259,75.7046578,Chinese,4.2,Hot
+N.K Food Court,Spring Roll,80,31.2469259,75.7046578,Chinese,4.2,Hot
+N.K Food Court,Veg Manchurian,110,31.2469259,75.7046578,Chinese,4.2,Hot
+N.K Food Court,Honey Chilli Potato,100,31.2469259,75.7046578,Chinese,4.2,Hot
+N.K Food Court,Paneer Butter Masala,130,31.2469259,75.7046578,Main Course,4.2,Hot
+N.K Food Court,Shahi Paneer,130,31.2469259,75.7046578,Main Course,4.2,Hot
+N.K Food Court,Malai Kofta,120,31.2469259,75.7046578,Main Course,4.2,Hot
+N.K Food Court,Dal Makhani,55,31.2469259,75.7046578,Main Course,4.2,Hot
+N.K Food Court,Rajma Tadka,55,31.2469259,75.7046578,Main Course,4.2,Hot
+N.K Food Court,Plain Rice,40,31.2469259,75.7046578,Rice,4.2,Hot
+N.K Food Court,Jeera Rice,45,31.2469259,75.7046578,Rice,4.2,Hot
+N.K Food Court,Veg Biryani,80,31.2469259,75.7046578,Rice,4.2,Hot
+N.K Food Court,Paneer Biryani,100,31.2469259,75.7046578,Rice,4.2,Hot
+N.K Food Court,Fried Rice,90,31.2469259,75.7046578,Rice,4.2,Hot
+N.K Food Court,Masala Dosa,80,31.2469259,75.7046578,South Indian,4.2,Hot
+N.K Food Court,Plain Dosa,70,31.2469259,75.7046578,South Indian,4.2,Hot
+N.K Food Court,Sambar Rice,60,31.2469259,75.7046578,South Indian,4.2,Hot
+N.K Food Court,Chana Bhatura,70,31.2469259,75.7046578,Meal,4.2,Hot
+N.K Food Court,Chana Rice,70,31.2469259,75.7046578,Meal,4.2,Hot
+N.K Food Court,Kadhi Rice,70,31.2469259,75.7046578,Meal,4.2,Hot
+N.K Food Court,Normal Thali,90,31.2469259,75.7046578,Meal,4.2,Hot
+N.K Food Court,Special Thali,140,31.2469259,75.7046578,Meal,4.2,Hot
+N.K Food Court,Cheese Burger,70,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Veg Burger,50,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Paneer Wrap,90,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Veg Grilled Sandwich,80,31.2469259,75.7046578,Fast Food,4.2,Hot
+N.K Food Court,Cold Coffee,70,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Oreo Shake,70,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Mango Shake,65,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Virgin Mojito,90,31.2469259,75.7046578,Beverage,4.2,Cold
+N.K Food Court,Gulab Jamun,40,31.2469259,75.7046578,Dessert,4.2,Hot
+N.K Food Court,Rasgulla,40,31.2469259,75.7046578,Dessert,4.2,Cold
+N.K Food Court,Ice Cream,60,31.2469259,75.7046578,Dessert,4.2,Cold
+N.K Food Court,Masala Dosa,80,31.2469259,75.7046578,South Indian,4.1,Hot
+N.K Food Court,Onion Masala Dosa,90,31.2469259,75.7046578,South Indian,4.1,Hot
+N.K Food Court,Plain Dosa,70,31.2469259,75.7046578,South Indian,4.1,Hot
+N.K Food Court,Sambar Rice,60,31.2469259,75.7046578,South Indian,4.1,Hot
+N.K Food Court,Chowmein,80,31.2469259,75.7046578,Chinese,4.1,Hot
+N.K Food Court,Hakka Noodles,90,31.2469259,75.7046578,Chinese,4.1,Hot
+N.K Food Court,Spring Roll,80,31.2469259,75.7046578,Chinese,4.1,Hot
+N.K Food Court,Chilli Paneer,135,31.2469259,75.7046578,Chinese,4.1,Hot
+N.K Food Court,Manchurian,110,31.2469259,75.7046578,Chinese,4.1,Hot
+N.K Food Court,Special Tea,15,31.2469259,75.7046578,Beverage,4.2,Hot
+N.K Food Court,Green Tea,15,31.2469259,75.7046578,Beverage,4.2,Hot
+N.K Food Court,Coffee,30,31.2469259,75.7046578,Beverage,4.2,Hot
+N.K Food Court,Milk,40,31.2469259,75.7046578,Beverage,4.2,Hot
+N.K Food Court,Bournvita Milk,45,31.2469259,75.7046578,Beverage,4.2,Hot
