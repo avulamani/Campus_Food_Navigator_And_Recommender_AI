@@ -50,3 +50,5 @@ to give **smart food recommendations**.
 
 ## Author
 Manikanta
+Contribution by Shivanshu Awasthi 
+
